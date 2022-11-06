@@ -5,7 +5,7 @@ project: rql
 target: rql-query-fuzz
 
 # Base image to run the binary in.
-image: ghcr.io/lotdeef/rql:latest
+# image: ghcr.io/lotdeef/rql:latest
 
 # List of commands used to test the target
 cmds:
